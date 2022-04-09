@@ -1,3 +1,3 @@
 # Mapty-App-Udemy-Course
 
-A exercise mapping app using the Leaflet API
+An exercise mapping app using the Leaflet API
